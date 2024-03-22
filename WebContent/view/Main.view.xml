@@ -1,0 +1,15 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" 
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc" 
+	controllerName="ZUI5AG.controller.Main" 
+	displayBlock="true">
+	<App id="idAppControl">
+		<pages>
+			<Page title="{i18n>agendaContatos}">
+				<content>
+
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
